@@ -7,4 +7,4 @@ redisson版本：
             <version>3.16.4</version>
         </dependency>
 ```
-方法从spring的容器中提取调用
+注意：方法从spring的容器中提取调用
